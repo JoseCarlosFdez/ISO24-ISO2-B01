@@ -6,4 +6,9 @@
   <name>ISOII</name>
   
   <packaging>pom</packaging>
+
+    <modules>
+  	<module>Componente3</module>
+  </modules>
+  
 </project>
