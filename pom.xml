@@ -9,6 +9,7 @@
 
     <modules>
   	<module>Componente3</module>
+    <module>Componente4</module>
   </modules>
   
 </project>
