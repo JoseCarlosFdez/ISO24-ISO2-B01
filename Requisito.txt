@@ -1,0 +1,2 @@
+Requisito: Identificar quién está implicado en los proyectos de los datos 
+Descripción: Este requisito busca establecer un proceso para identificar a todas las personas, equipos o entidades involucradas en los proyectos relacionados con los datos de una organización. Esto implica documentar y reconocer a los roles y actores clave que participan en cada proyecto de datos, tales como analistas, científicos de datos, ingenieros de datos, gestores de proyectos, y usuarios finales, así como otros interesados o responsables de la toma de decisiones.
