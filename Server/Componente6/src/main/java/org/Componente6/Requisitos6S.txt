@@ -1,0 +1,3 @@
+Título: Sistema de solicitudes, alertas y avisos sobre los conjuntos de datos propios o solicitados.
+
+Descripción: Este caso de uso establece un sistema que permite a los usuarios recibir notificaciones automáticas relacionadas con cambios, solicitudes o actualizaciones en los conjuntos de datos propios o aquellos que han sido solicitados. Su propósito es centralizar y agilizar la comunicación sobre la gestión de datos, asegurando que los usuarios estén informados de manera oportuna para facilitar la toma de decisiones y el seguimiento efectivo de los datos relevantes.
