@@ -1,0 +1,3 @@
+Gestión de Conexiones a Bases de Datos: El servidor debe ser capaz de gestionar múltiples conexiones simultáneas con diferentes bases de datos, utilizando JDBC o ODBC.
+API REST para Comunicación Cliente-Servidor: Debe proporcionar una API REST que permita al cliente realizar solicitudes al servidor, facilitando la comunicación y las operaciones de consulta de datos.
+Autenticación y Autorización: El servidor debe manejar la autenticación de los usuarios y aplicar control de acceso basado en roles para determinar qué datos y operaciones están permitidos para cada usuario.
