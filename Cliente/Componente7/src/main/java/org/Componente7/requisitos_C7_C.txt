@@ -1,0 +1,3 @@
+Interfaz Gráfica Intuitiva: El cliente debe proporcionar una interfaz gráfica que sea fácil de usar, permitiendo al usuario conectarse a bases de datos, realizar consultas SQL y visualizar resultados.
+Soporte para Ejecución de Consultas SQL: El cliente debe permitir la ejecución interactiva de consultas SQL para explorar los datos y mostrar los resultados de manera clara y estructurada.
+Gestión de Conexiones: Debe permitir al usuario gestionar sus conexiones, guardando credenciales de manera segura y ofreciendo opciones para editar o eliminar configuraciones de conexión.
