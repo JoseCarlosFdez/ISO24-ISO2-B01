@@ -16,4 +16,12 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
         assertTrue(true);
     }
+
+    public void prueba1(){
+        //implementado
+    }
+
+    public void prueba2(){
+        //implementado
+    }
 }
