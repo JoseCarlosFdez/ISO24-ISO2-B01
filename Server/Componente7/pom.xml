@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>ISOB01</groupId>
-  <artifactId>Server</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <modules>
-    <module>Componente1</module>
-    <module>Componente2</module>
-    <module>Componente3</module>
-    <module>Componente4</module>
-    <module>Componente5</module>
-    <module>Componente6</module>
-    <module>Componente7</module>
-  </modules>
+  <parent>
+    <artifactId>Server</artifactId>
+    <groupId>ISOB01</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>Componente7</artifactId>
+
+  <name>Componente7</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
   </properties>
+
   <dependencyManagement>
     <dependencies>
       <dependency>
@@ -28,6 +29,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+
   <dependencies>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
@@ -41,9 +43,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
   <build>
-    <pluginManagement>
-      <!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
         <plugin>
