@@ -11,6 +11,7 @@
     <module>Componente4</module>
     <module>Componente5</module>
     <module>Componente6</module>
+    <module>Componente7</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
