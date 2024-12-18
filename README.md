@@ -1,4 +1,4 @@
-# Fepositorio para las prácticas de laboratorio de Ingeniería de Software II
+# Repositorio para las prácticas de laboratorio de Ingeniería de Software II
 Grupo B01
 
 | Integrante | Rol |
